@@ -1,4 +1,4 @@
-# Suboptique
+# Supoptique
 Practical_Session
 
 ## Material
